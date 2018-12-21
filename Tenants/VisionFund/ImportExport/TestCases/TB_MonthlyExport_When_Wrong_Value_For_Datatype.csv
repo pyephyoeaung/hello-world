@@ -1,0 +1,3 @@
+Date,Account,Description,Branch,Branch Name,Opening Balance,Debit Mvmt,Credit Mvmt,Closing Balance
+10/31/2018,111100.001,CASH ON HAND - MMK,AMP,AMARAPURA,test,"432,795,450","-442,753,425","35,042,025"
+10/31/2018,214900,LONG-TERM INVESTMENT MMK,AMP,AMARAPURA,"-45,000,000","442,753,425","-432,795,450","-35,042,025"
